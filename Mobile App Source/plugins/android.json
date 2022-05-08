@@ -1,0 +1,64 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.taydotech.globalnews"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.taydotech.globalnews"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.taydotech.globalnews"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.taydotech.globalnews"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.taydotech.globalnews"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.taydotech.globalnews"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.taydotech.globalnews"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.taydotech.globalnews"
+        },
+        "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "com.taydotech.globalnews"
+        },
+        "cordova-plugin-x-toast": {
+            "PACKAGE_NAME": "com.taydotech.globalnews"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.taydotech.globalnews"
+        },
+        "onesignal-cordova-plugin": {
+            "PACKAGE_NAME": "com.taydotech.globalnews"
+        },
+        "cordova-plugin-google-analytics": {
+            "PACKAGE_NAME": "com.taydotech.globalnews"
+        },
+        "cordova-plugin-admob-free": {
+            "PACKAGE_NAME": "com.taydotech.globalnews"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.taydotech.globalnews"
+        },
+        "cordova-promise-polyfill": {
+            "PACKAGE_NAME": "com.taydotech.globalnews"
+        },
+        "cordova-admob-sdk": {
+            "PACKAGE_NAME": "com.taydotech.globalnews"
+        }
+    }
+}
